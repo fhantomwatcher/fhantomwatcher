@@ -4,7 +4,7 @@
 - 🎮 I stream on Twitch as [FhantomWatcher](https://twitch.tv/FhantomWatcher)
 - 💾 I love coding in **C++, Python, JAVA and Kotlin**
 - 🤖 Currently building **A Discord Bot**
-- 🎓 Studying **Computer Science** at AIUB
+- 🎓 Studying **Computer Science** at a good **university**
 
 ## 🔧 Tech Stack
 - 🖥️ **Languages:**
