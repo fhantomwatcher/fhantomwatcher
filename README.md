@@ -1,4 +1,4 @@
-# Hi there, I'm Farhan 👋
+# Hi there, I'm Farhan AKA Fhantom 👋
 
 ## 💻 About Me
 - 🎮 I stream on Twitch as [FhantomWatcher](https://twitch.tv/FhantomWatcher)
@@ -27,7 +27,9 @@
 ## 📫 Connect with Me
 - 📜 [My Projects](https://github.com/FhantomWatcher?tab=repositories)
 - 🐦 Twitter: [@fhantomwatcher](https://twitter.com/fhantomwatcher)  
-  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffhantomwatcher&style=flat-square&logo=x)
+  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffhantomwatcher&style=flat-square&logo=x)  
+
+  <a href="https://fb.com/juneid.farhansiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juneid.farhansiddiqui" height="30" width="40" /></a>
 
 
 
