@@ -27,8 +27,7 @@
 ## 📫 Connect with Me
 - 📜 [My Projects](https://github.com/FhantomWatcher?tab=repositories)
 - 🐦 Twitter: [@fhantomwatcher](https://twitter.com/fhantomwatcher)  
-  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffhantomwatcher&style=flat-square&logo=x)  
-  <a hraf="https://www.facebook.com/farhanjuneid.siddiqui/"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%23000000?style=for-the-badge&logo=facebook&logoColor=%23000000&color=%230866FF"></a>
+  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffhantomwatcher&style=flat-square&logo=x)
 
 
 
