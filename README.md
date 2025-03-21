@@ -25,9 +25,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FhantomWatcher&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- 📜 [My Projects](https://github.com/FhantomWatcher?tab=repositories)
-- 🐦 Twitter: [@fhantomwatcher](https://twitter.com/fhantomwatcher)  
-  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffhantomwatcher&style=flat-square&logo=x)  
+- 📜 [My Projects](https://github.com/FhantomWatcher?tab=repositories)  
+
+  <a href="https://twitter.com/fhantomwatcher" target="blank"><img align="center" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffhantomwatcher&style=flat-square&logo=x" alt="fhantomwatcher"></a>
 
   <a href="https://fb.com/farhanjuneid.siddiqui" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%23000000?style=for-the-badge&logo=facebook&logoColor=%23000000&color=%230866FF" alt="farhanjuneid.siddiqui"></a>
 
